@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://9n1s6.github.io/pbr_band/sitemap.xml
